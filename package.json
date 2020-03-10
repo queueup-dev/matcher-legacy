@@ -1,29 +1,29 @@
 {
   "_args": [
     [
-      "github:hmarikyan/matcher#v1.1.2",
+      "github:queueup-dev/matcher-legacy#v0.9",
       "/home/gniksic/repos/qup-campaign-ui"
     ]
   ],
-  "_from": "github:hmarikyan/matcher#v1.1.2",
-  "_id": "matcher@github:hmarikyan/matcher#44085de71b81490e185931fee09d9826a2e9d144",
+  "_from": "github:queueup-dev/matcher-legacy#v0.9",
+  "_id": "matcher@github:queueup-dev/matcher-legacy#f2159ac201741ec6da7c4d3ca4ce12684e68da06",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/matcher",
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "github:hmarikyan/matcher#v1.1.2",
-    "rawSpec": "github:hmarikyan/matcher#v1.1.2",
-    "saveSpec": "github:hmarikyan/matcher#v1.1.2",
+    "raw": "github:queueup-dev/matcher-legacy#v0.9",
+    "rawSpec": "github:queueup-dev/matcher-legacy#v0.9",
+    "saveSpec": "github:queueup-dev/matcher-legacy#v0.9",
     "fetchSpec": null,
-    "gitCommittish": "v1.1.2"
+    "gitCommittish": "v0.9"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "github:hmarikyan/matcher#44085de71b81490e185931fee09d9826a2e9d144",
-  "_spec": "github:hmarikyan/matcher#v1.1.2",
+  "_resolved": "github:queueup-dev/matcher-legacy#f2159ac201741ec6da7c4d3ca4ce12684e68da06",
+  "_spec": "github:queueup-dev/matcher-legacy#v0.9",
   "_where": "/home/gniksic/repos/qup-campaign-ui",
   "author": {
     "name": "Sindre Sorhus",
