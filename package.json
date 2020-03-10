@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      "github:hmarikyan/matcher#v1.1.2",
+      "/home/gniksic/repos/qup-campaign-ui"
+    ]
+  ],
+  "_from": "github:hmarikyan/matcher#v1.1.2",
+  "_id": "matcher@github:hmarikyan/matcher#44085de71b81490e185931fee09d9826a2e9d144",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/matcher",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:hmarikyan/matcher#v1.1.2",
+    "rawSpec": "github:hmarikyan/matcher#v1.1.2",
+    "saveSpec": "github:hmarikyan/matcher#v1.1.2",
+    "fetchSpec": null,
+    "gitCommittish": "v1.1.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:hmarikyan/matcher#44085de71b81490e185931fee09d9826a2e9d144",
+  "_spec": "github:hmarikyan/matcher#v1.1.2",
+  "_where": "/home/gniksic/repos/qup-campaign-ui",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sindresorhus/matcher/issues"
+  },
+  "dependencies": {
+    "escape-string-regexp": "^1.0.4"
+  },
+  "description": "Simple wildcard matching",
+  "devDependencies": {
+    "ava": "*",
+    "matcha": "^0.7.0",
+    "xo": "*"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/sindresorhus/matcher#readme",
+  "keywords": [
+    "matcher",
+    "matching",
+    "match",
+    "regex",
+    "regexp",
+    "regular",
+    "expression",
+    "wildcard",
+    "pattern",
+    "string",
+    "filter",
+    "glob",
+    "globber",
+    "globbing",
+    "minimatch"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "matcher",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/matcher.git"
+  },
+  "scripts": {
+    "bench": "matcha bench.js",
+    "test": "xo && ava"
+  },
+  "version": "1.1.2"
+}
